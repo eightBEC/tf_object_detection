@@ -32,8 +32,8 @@ wheels/
 *.xml
 *.jpeg
 images/
-test.record
-train.record
+*.record
+*.record
 faster_rcnn_resnet101.config
 annotations/
 
