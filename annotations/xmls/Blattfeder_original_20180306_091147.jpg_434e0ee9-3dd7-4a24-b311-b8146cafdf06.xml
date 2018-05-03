@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>Blattfeder_original_20180306_091147.jpg_434e0ee9-3dd7-4a24-b311-b8146cafdf06.jpg</filename>
+	<path>C:\Users\IBM_ADMIN\Documents\Programming\python\Custom-Object-Detection\images\Blattfeder_original_20180306_091147.jpg_434e0ee9-3dd7-4a24-b311-b8146cafdf06.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>480</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>blattfederww</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>241</xmin>
+			<ymin>171</ymin>
+			<xmax>622</xmax>
+			<ymax>292</ymax>
+		</bndbox>
+	</object>
+</annotation>
