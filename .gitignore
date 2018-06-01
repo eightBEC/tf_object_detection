@@ -29,6 +29,7 @@ wheels/
 *.egg
 
 *.jpg
+*.jpeg
 *.xml
 *.jpeg
 images/
